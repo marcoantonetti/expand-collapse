@@ -1,7 +1,5 @@
-This is another coding challenge I had to do for an interview. 
-I was provided with the html file and some of the styles.
-
-In order to expand and collapse I did the following:
+A simple expand-collapse coding challenge I had to do for an interview.
+Eventhough is simple, my solution is straight-forward. 
 
 Instead of using a display: none and display: block approach, I put a height:0 and overflow:hidden in the card. This allows the text to be inside this 0 height and not being shown at all.
 
